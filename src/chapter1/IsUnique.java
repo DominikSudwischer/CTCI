@@ -15,7 +15,7 @@ public class IsUnique {
 
 	/*
 	 * Iterate through the string as a character array. Keep track of characters that
-	 * have been found using a HashSet. Time complexity: O(n) with n = string.length
+	 * have been found using a HashSet. Time complexity: O(n) with n = string.length()
 	 */
 	public static boolean isUnique1(String string) {
 		Set<Character> charsInString = new HashSet<Character>();

@@ -2,6 +2,8 @@ package util;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
 
 /**
  * A simple class to count elements of an array with a HashMap.
@@ -40,6 +42,10 @@ public class Counter<T> {
 		else {
 			return 0;
 		}
+	}
+	
+	public Set<Entry<T, Integer>> entrySet() {
+		return counter.entrySet();
 	}
 
 	public boolean equals(Counter<T> other) {

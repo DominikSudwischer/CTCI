@@ -14,7 +14,7 @@ public class CheckPermutation {
 	/*
 	 * Two strings are permutations of each other if and only if both contain exactly
 	 * the same number of individual characters. Time complexity in the non-trivial
-	 * case: O(n) where n = string1.length = string2.length. (If string1 and string2
+	 * case: O(n) where n = string1.length() = string2.length(). (If string1 and string2
 	 * are not the same size, the runtime is constant).
 	 */
 	public static boolean isPermutation(String string1, String string2) {
