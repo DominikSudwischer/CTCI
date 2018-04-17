@@ -13,15 +13,17 @@ public class StringRotation {
 
 	/*
 	 * The idea is to take s1 twice in a row and check if s2 is a substring of s1+s1.
+	 * Time complexity: Assuming that isSubstring is linear in the length of s2, n,
+	 * the approach is O(n).
 	 */
 	public static boolean isRotation(String s1, String s2) {
-		if(s1.length() != s2.length()) {
+		if (s1.length() != s2.length()) {
 			return false;
 		}
-		String s3 = s1+s1;
+		String s3 = s1 + s1;
 		return s3.contains(s2);
 	}
-	
+
 	public static void main(String[] args) {
 		String s1 = "erbottlewat";
 		String s2 = "waterbottle";
