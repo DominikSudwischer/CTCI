@@ -1,0 +1,11 @@
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\bin\Debug\netcoreapp2.1\CTCI.deps.json
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\bin\Debug\netcoreapp2.1\CTCI.runtimeconfig.json
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\bin\Debug\netcoreapp2.1\CTCI.runtimeconfig.dev.json
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\bin\Debug\netcoreapp2.1\CTCI.dll
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\bin\Debug\netcoreapp2.1\CTCI.pdb
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\obj\Debug\netcoreapp2.1\CTCI.csprojAssemblyReference.cache
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\obj\Debug\netcoreapp2.1\CTCI.csproj.CoreCompileInputs.cache
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\obj\Debug\netcoreapp2.1\CTCI.AssemblyInfoInputs.cache
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\obj\Debug\netcoreapp2.1\CTCI.AssemblyInfo.cs
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\obj\Debug\netcoreapp2.1\CTCI.dll
+D:\Benutzer\Dominiks Ordner\Git Repositories\CTCI\CSharp - Chapters 5 -\CTCI\CTCI\obj\Debug\netcoreapp2.1\CTCI.pdb
