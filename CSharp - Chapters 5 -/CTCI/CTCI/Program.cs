@@ -8,7 +8,7 @@ namespace CTCI
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var result = BinaryToString.Convert(0.75);
+            var result = FlipBitToWin.LongestChain(~0-3);
             Console.WriteLine(result);
             Console.ReadKey();
         }
