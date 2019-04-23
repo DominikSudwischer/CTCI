@@ -8,7 +8,7 @@ namespace CTCI
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var result = Conversion.Convert(29, 15);
+            var result = PairwiseSwap.Swap(0b101110);
             Console.WriteLine(result);
             Console.ReadKey();
         }
