@@ -12,7 +12,7 @@ namespace CTCI.Chapter_5
     {
         public static int LongestChain(int x)
         {
-            // We use a queue to keep track of the 1's and 0's in the binary representatio of x.
+            // We use a queue to keep track of the 1's and 0's in the binary representation of x.
             var max = 0;
             var q = new Queue<bool>();
             var hasZero = false;

@@ -8,8 +8,11 @@ namespace CTCI
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var result = PairwiseSwap.Swap(0b101110);
-            Console.WriteLine(result);
+            var screen = new byte[4];
+            DrawLine.Draw(screen, 32, 16, 25, 0);
+            foreach (var b in screen) {
+                Console.WriteLine(b);
+            }
             Console.ReadKey();
         }
     }
